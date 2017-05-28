@@ -17,6 +17,6 @@ Maven v3.2.5
 (a)Compiles andd packcages the project.  
 (b) runs the testcases. This application has a test case which will automatically do google search using Selenium.  
 For your conveneince I've added a Java Class(TestFirstSikuli) with main method. You can run this class also to test the application.  
-(6) Your all set with basic Sikuli. Go ahead and explore more on it. Happy Learning !  
+(6) You are all set for basic Selenium with Java. Go ahead and explore more on it. Happy Learning !  
 
 
